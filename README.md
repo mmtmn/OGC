@@ -27,3 +27,5 @@ budgets.
 # OGC
 
 This is my attempt at a physics engine in CUDA based on the research paper mentioned above.
+
+For the first 0.1 version use this to compile: nvcc -O3 -std=c++17 --extended-lambda ogc_physics.cu -o ogc_physics
