@@ -1,5 +1,7 @@
 The research paper can be find here: https://graphics.cs.utah.edu/research/projects/ogc/Offset_Geometric_Contact-SIGGRAPH2025.pdf
 
+Bellow is the abstract and the names of those involved in the research:
+
 Offset Geometric Contact
 ANKA HE CHEN, University of Utah, NVIDIA, USA
 JERRY HSU, University of Utah, USA
@@ -8,8 +10,6 @@ MILES MACKLIN, NVIDIA, New Zealand
 YIN YANG, University of Utah, USA
 CEM YUKSEL, University of Utah, USA
 
-Fig. 1. Example simulation results using our penetration-free contact handling method. Our method is robust in the presence of challenging
-contact scenarios, and can be easily integrated with existing solvers such as Vertex Block Descent [Chen et al. 2024b], as shown here.
 We present a novel contact model, termed Offset Geometric Contact (OGC),
 for guaranteed penetration-free simulation of codimensional objects with
 minimal computational overhead. Our method is based on constructing
